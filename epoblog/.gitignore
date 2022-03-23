@@ -1,23 +1,10 @@
+*.log
+.cache
 .DS_Store
+src/.temp
 node_modules
-/dist
+dist
+.env
+.env.*
 
-
-# local env files
-.env.local
-.env.*.local
-
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+Users/marcusreinhardt/Development/gridsome-slow-performance/packages

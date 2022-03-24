@@ -1,10 +1,10 @@
 ---
 id: author1
-name: Troes retardat
-bio: Primis vitae mauris turpis ornare libero odio torquent vehicula proin consequat curabitur mattis
+name: Lucas G
+bio: The primary author of this website, a guy who likes to learn and to share what he has learned
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
-linkedin: https://www.linkedin.com
-image: ./images/author1.png
+linkedin: https://www.linkedin.com/lucasgallagher
+image: ./images/epopisces.png
 cover: ./cover/benjamin-voros-Lxq_TyMMHtQ-unsplash.jpg
 ---

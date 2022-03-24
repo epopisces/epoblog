@@ -76,6 +76,7 @@ module.exports = {
   transformers: {
     remark: {
       plugins: [
+        'gridsome-plugin-remark-mermaid',
         'remark-autolink-headings',
         'remark-attr',
         ['gridsome-plugin-remark-prismjs-all', {

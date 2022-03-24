@@ -13,6 +13,7 @@
     "autoprefixer": "^10.2.5",
     "gridsome": "^0.7.23",
     "gridsome-plugin-flexsearch": "^2.0.1",
+    "gridsome-plugin-remark-mermaid": "^1.0.1",
     "gridsome-plugin-remark-prismjs-all": "^0.4.8",
     "gridsome-source-static-meta": "github:noxify/gridsome-source-static-meta#master",
     "hooper": "^0.3.4",

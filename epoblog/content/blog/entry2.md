@@ -19,6 +19,11 @@ cum, ipsum.
 
 ## Terrae sic nunc crinem violaeque armaque
 
+```mermaid
+graph LR
+    a[Thing]-->b[Other Thing]
+```
+
 Nec ego amittere quam. Triones ales fibras Mavortis proceres secutis saltus.
 Ventis istis fuit colubris facinus, habentem. Iam fidum **dis radices adiit**
 nati servat procorum patefecit suadet Victoria grates per [caede

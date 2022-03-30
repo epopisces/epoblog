@@ -8,7 +8,7 @@ The version of webpack included in Gridsome doesn't (yet) support the newer hash
 nvm install 16.14.2 (w/LA)
 nvm use 16.14.2 (w/LA)
 
-# install gridsom, clone down liebling starter
+# install gridsome, clone down liebling starter
 npm install --global @gridsome/cli
 gridsome create epoblog https://github.com/jammeryhq/gridsome-starter-liebling
 cd epoblog

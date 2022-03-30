@@ -1,20 +1,25 @@
 ---
-title: Et aequora inanes fortuna non dextra
-tags: tag2, tag3
-category: Digital
-excerpt: Lorem markdownum Hesperus in publica iusta aeternus num removit ille. Vincere ferociaarva.
-created: 2019-03-20
-image: ./images/marco-marques-dJ_Zl5LpPto-unsplash.jpg
-image_caption: Photo by Marco Marques on Unsplash
+title: Converting Pictures into LEGO Instructions
+tags: LEGO, 3D, Converting, Photogrammetry
+category: LEGO
+excerpt: It would be nice if my picture of *XYZ* could be used to make a set of LEGO instructions
+created: 2022-03-29
+image: ./images/Super-Star-Destroyer-of-Fireplace-Mantels.jpg
+image_caption: Photo of my fireplace mantel.  Before the wife said 'oh this is not happening'
 author: author1
 ---
+> It would be nice if my picture of *XYZ* could be used to make a set of LEGO instructions. . .
 
-## Concretam matris protinus populos
+And depending on what your end goal is, this could be a fairly simple process!  Or a fairly extended one.  Let's dig a bit deeper into what the options are.
 
-Lorem markdownum Hesperus in `publica` iusta aeternus num removit ille. Ea cur
-utar cum *tenuit Philemon*, etiamnum nomen; tibi horrida potuit. Sopita sine
-**ego repetita**, lunae seraque ignoscas nullus cornua illi in. *Praemia caelum
-fictilibus* Iasone valens tura breve!
+### Photos to LEGO Mosaics to Instructions
+
+This is the simplest route.  Want to convert that family photo into a LEGO keepsake, and have a ton of 1x1 bricks or [<u>Dots</u>](https://www.lego.com/en-us/product/big-message-board-41952) lying around?  This may be a good option for you!
+
+Take a look at Converting Pictures to a LEGO Mosaic (WIP) for a detailed how-to.
+
+### Photos to 3D Models to LEGO Bricks to Instructions
+
 
 ```js
 if (dvr_web) {

@@ -1,21 +1,22 @@
 ---
-title: Dederis faciem
-tags: tag1, tag2, tag3
-category: Getting started
+title: Converting 3D Models to LEGO Instructions
+tags: LEGO, 3D
+category: LEGO
 excerpt: Qua opes egentes cur, et trunca carpserat tulitquemuneris foedumque patriumque pisces vices!
-created: 2019-02-05
-image: ./images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg
-image_caption: Photo by Luasz Szmigiel on Unsplash
+created: 2022-03-29
+image: ./images/Wall_Closeup.jpg
+image_caption: Maybe if we bribe them they will go away?
 author: author1
 featured: true
 ---
 
 ## Loci ego fuit
-
-Lorem markdownum tollere. *Qua opes egentes* cur, et trunca carpserat
-tulitquemuneris foedumque patriumque pisces vices sed eadem quam! **Cupidinis
-nostro Issen**; pinus cumulo tanget ego **aera dea** fugientem fortia publica
-cum, ipsum.
+* Import 3d model into LDD: https://www.youtube.com/watch?v=DCit6pOXLB4
+* (best) Upload STL to Brickify: https://brickify.it/
+* Lsculpt (Windows): https://code.google.com/archive/p/lsculpt/
+* Brickr: https://lgg.epfl.ch/publications/2013/lego/
+* Brickplicator: https://www.instructables.com/Create-Your-Own-LEGO-Kit-From-3D-Model-Files/
+* Craflplicator -> another program (colorize)
 
 ## Terrae sic nunc crinem violaeque armaque
 

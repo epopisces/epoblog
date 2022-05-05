@@ -1,6 +1,6 @@
 ---
 title: Hello World
-tags: tag1, tag2
+tags: Welcome
 category: Digital
 excerpt: Sometimes when you hello the world. . .the world hellos back
 created: 2023-03-23
@@ -13,6 +13,8 @@ featured: true
 ## A Lovely Little Blogpost
 
 Well, here we are!
+
+And here is a test of the mermaid functionality of this blog:
 
 ```mermaid
 graph LR

@@ -36,5 +36,5 @@ In brief, here are the different steps involved:
 
 Because of the detail involved (and the fact that steps 1 and 2 have uses beyond LEGOs) the guide to perform this process has been split into two parts:
 
-Converting Pictures to 3D Models
+Converting Images to 3D Models
 Converting 3D Models to LEGO Instructions
